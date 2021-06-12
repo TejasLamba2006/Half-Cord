@@ -6,7 +6,7 @@ A discord.js Bot with 33 commands [Reaction Roles, Dynamic help, etc..]
 - Run `npm start` or `node half.js`
 
 # Support and credit
-Rainbow Studios - Support - https://discord.gg/8f3AAWbe5x
+Rainbow Studios - Support - https://discord.gg/8f3AAWbe5x <br>
 Tejas Lamba#1924 - Credit - https://discord.gg/8f3AAWbe5x
 
 # LISENCE
